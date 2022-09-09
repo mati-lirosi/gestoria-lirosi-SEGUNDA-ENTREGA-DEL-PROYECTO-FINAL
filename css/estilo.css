@@ -53,7 +53,11 @@ margin-top: 10px;
        }
 
 
-
+.container-footer {background-color: red;
+border: solid;
+border-color: yellow;
+margin-left: 20px;
+margin-right: 20px;}
 
 
 .footer-basic {
