@@ -26,6 +26,11 @@ border:solid 5px
   border-right: 0.15em solid #18bdec;
   animation: typing 4s steps(38) 1s 1 normal both, blink 1s steps(1) infinite;
 }
+
+h3{text-align: center;
+
+}
+
 @keyframes typing {
   from {
     width: 0;
@@ -141,6 +146,7 @@ margin-right: 100px;
 padding-right: 200px;  
 padding-top: 5px;
 padding-bottom: 5px;
+margin-bottom: 130px;
 }
 
     
@@ -160,13 +166,7 @@ margin-bottom: 255px;
 
     }
 
-.text-center1{display: inline-flex;
-   justify-content: center;
-    color: navajowhite;
-    padding-top: 15px;
-    padding-bottom:15px ;    
-  
-}
+
 
 
 
