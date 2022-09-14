@@ -106,7 +106,7 @@ body {
 
 .video-tramites{  display: flex;
     flex-wrap: wrap;
-    margin-left: 500px;
+   justify-content: center;
     margin-bottom: 255px;}
 
 
