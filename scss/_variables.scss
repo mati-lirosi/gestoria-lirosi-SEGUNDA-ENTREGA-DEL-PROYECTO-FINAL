@@ -20,3 +20,18 @@ $biggest-font-size: 2rem;
 $h2-font-size: 3rem;
 $normal-font-size: 1rem;
 $smaller-font-size: 0.938rem;
+
+$blue: #B5E6F5;
+$red: #FFB2AD;
+$yellow: #ADC9EA;
+$green: #D8F0D4;
+
+$colors: map-merge(
+    (
+      “info: $blue,
+      “danger”: $red,
+      “warning”: $yellow,
+      “success: $green,
+    ),
+    $colors
+);

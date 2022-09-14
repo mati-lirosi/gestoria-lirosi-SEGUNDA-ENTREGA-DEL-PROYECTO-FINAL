@@ -2,3 +2,8 @@
 $colorPrimario:white;
 $colorSecundario:yellow;
 $colorTerciario:lightblue;
+@each $name, $value in $colors {
+  .bg-#{$name} {
+    background-color: $value;
+  }
+}
